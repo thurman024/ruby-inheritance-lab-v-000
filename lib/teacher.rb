@@ -4,5 +4,6 @@ class Teacher < User
   def teach
     sample(KNOWLEDGE)
   end
+  
 
 end
