@@ -23,7 +23,7 @@ more_knowledge = avi.teach
 
 steve.learn(some_knowledge)
 
-jim.learn(some_knowledge)
+# jim.learn(some_knowledge)
 
 steve.learn(more_knowledge)
 
